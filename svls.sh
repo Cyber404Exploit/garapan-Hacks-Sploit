@@ -9,7 +9,7 @@ pu='\033[37;1m' #putih
 ku='\033[33;1m' #kuning
 echo
 echo
-python2 svls.py
+python2 lock.py
 echo
 clear
 # [SUBSCRIBE] Zacky Saksakame
